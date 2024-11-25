@@ -1,0 +1,29 @@
+Extract the specified fields and return them strictly in the following JSON format. Ensure all constraints are followed exactly.
+Fields to Extract:
+car_model_name: Match the car model from this list: {pdf_file_names}. If no match is found, set the value to null. from the user try to best match it to the file name from which i can extract the details.if match is found return the best matched entry from {pdf_file_names} .If user specify a car which is not in list add "Not_in_scope"
+image_url: Extract the URL if present. If no URL is found, set the value to null.
+text_or_image_search:
+Analyze the input query to determine if the search is based on an image or text.
+If the query indicates an image search (e.g., mentions "image" or includes a visual description), set the value to "image".
+Additionally, check if a valid image_url exists. If present, set the value to "image".
+If neither condition applies, set the value to "text".
+
+Input:
+{user_input}
+
+Output:
+The output must strictly follow this JSON format:
+{{
+"car_model_name": "Tesla Model S",
+"image_url": "https://example.com/image.jpg",
+"text_or_image_search": "image"
+}}
+
+Constraints:
+Output JSON Structure: The output must include all three keys: car_model_name, image_url, and text_or_image_search, regardless of whether their values are null or not.
+Field Values:
+car_model_name: From the user query try to match the pdf file which can answer the user query , if no match found return none .But if match found the value returned should be from the list provided {pdf_file_names}.The full filename should be returned always.If user specify a car which is not in list add "Not_in_scope"
+image_url: Must be a valid URL or null.
+text_or_image_search: Must be "image" if a valid image_url exists, otherwise "text".
+No Additional Fields: Do not include any fields other than car_model_name, image_url, and text_or_image_search.
+Strict Format Compliance: Ensure the JSON output matches the provided example format exactly in terms of structure and data types.

@@ -1,0 +1,23 @@
+{
+    "file_mappings": [
+        {
+            "https://www.team-bhp.com/forum/attachments/official-new-car-reviews/2238569d1638110150-mg-astor-review-astor-manual.pdf": "Astor Manual.pdf"
+        },
+        {
+            "https://tmlcars.tatamotors.com/images/service/owners/owners-manual/pdf/tiago/APP-TIAGO-FINAL-OMSB.pdf": "APP-TIAGO-FINAL-OMSB.pdf"
+        }
+    ],
+    "api_keys": {
+        "openai": "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",
+        "other_service": "your_other_service_api_key"
+    },
+    "output_dir": "output_data",
+    "mongo_uri":"mongodb+srv://pdfrag6989:cGSRURWmyjm06YDn@cluster0.fh8mk.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0",
+    "mongo_db":"car_manual",
+    "mongo_collection":"pdf_parsed_data",
+    "index_text_model":"jinaai/jina-embeddings-v2-small-en",
+    "index_image_model":"openai/clip-vit-base-patch32",
+    "pdf_parsed_location":"./data_parsed/Combined_Output.csv",
+    "text_cross_encoder":"BAAI/bge-reranker-base",
+    "gpt_generation_model":"gpt-4-turbo"
+}

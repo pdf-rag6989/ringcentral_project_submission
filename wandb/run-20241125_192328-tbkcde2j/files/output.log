@@ -1,0 +1,10 @@
+2024-11-25 19:23:29,502 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:23:29,523 [INFO] Use pytorch device_name: mps
+2024-11-25 19:23:29,524 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:23:51,986 [INFO] Use pytorch device: mps
+2024-11-25 19:24:01,382 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:24:03,663 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+{'car_model_name': 'APP-TIAGO-FINAL-OMSB.pdf', 'image_url': None, 'text_or_image_search': 'text'}
+2024-11-25 19:24:16,859 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:24:29,627 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:24:42,098 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

@@ -1,0 +1,9 @@
+Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.

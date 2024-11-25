@@ -1,0 +1,1304 @@
+2024-11-24 08:13:20,509 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 08:13:29,731 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:00:12,887 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:00:39,647 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:00:47,499 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:01:08,143 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:02:03,973 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:02:03,978 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 10:02:03,979 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 10:02:38,387 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:02:38,390 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 10:02:38,391 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 10:02:38,392 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 10:02:38,393 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 10:20:37,318 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:20:42,472 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:21:38,660 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:21:51,447 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:22:07,263 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:22:45,324 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:23:08,329 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:23:13,353 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:23:28,134 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:23:57,647 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:24:29,918 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:25:29,054 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:25:37,780 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 10:25:37,784 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 10:25:37,789 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 10:25:37,789 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 10:25:37,790 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 11:55:11,939 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:26:06,560 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:27:32,588 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:35:32,851 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:36:54,167 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:38:04,147 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:38:16,422 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 12:39:03,897 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:39:16,562 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 12:39:16,563 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 12:39:16,563 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 12:39:16,564 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 12:39:16,564 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 12:42:13,904 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:42:30,963 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 12:42:30,965 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 12:42:30,965 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 12:42:30,965 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 12:42:30,966 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 12:48:58,346 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 12:49:10,643 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 12:49:10,644 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 12:49:10,644 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 12:49:10,644 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 12:49:10,645 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 13:01:40,284 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 13:01:53,257 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 13:01:53,260 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 13:01:53,261 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 13:01:53,261 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 13:01:53,262 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 13:21:18,286 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 13:21:30,722 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 13:21:30,723 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 13:21:30,724 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 13:21:30,724 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 13:21:30,724 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 13:24:38,850 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 13:24:52,927 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 13:24:52,929 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 13:24:52,929 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 13:24:52,930 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 13:24:52,930 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 13:34:44,991 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 13:34:57,371 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 13:34:57,373 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 13:34:57,373 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 13:34:57,374 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 13:34:57,374 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 13:57:12,916 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 13:57:26,004 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 13:57:26,009 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 13:57:26,009 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 13:57:26,010 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 13:57:26,010 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 14:15:12,236 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 14:15:25,359 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 14:15:25,362 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 14:15:25,362 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 14:15:25,363 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 14:15:25,363 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 14:21:25,160 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 14:21:37,483 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 14:21:37,485 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 14:21:37,485 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 14:21:37,486 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 14:21:37,486 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 14:24:11,512 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 14:24:25,321 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 14:24:25,324 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 14:24:25,324 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 14:24:25,325 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 14:24:25,325 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 14:36:34,293 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 14:36:47,268 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 14:36:47,270 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 14:36:47,271 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 14:36:47,271 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 14:36:47,272 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 15:05:58,883 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 15:06:12,239 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 15:06:12,241 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 15:06:12,242 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 15:06:12,242 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 15:06:12,243 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 15:07:36,873 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 15:07:49,363 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 15:07:49,364 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 15:07:49,364 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 15:07:49,364 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 15:07:49,365 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 15:08:53,155 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:11:02,208 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:11:14,570 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:12:20,117 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:12:38,672 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:12:50,789 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:13:03,682 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:14:44,460 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:15:04,059 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:17:49,279 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 15:18:01,922 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 15:18:01,924 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 15:18:01,924 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 15:18:01,925 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 15:18:01,925 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 15:19:03,299 [INFO] Getting image description for path images/Astor Manual/page-1/full_page_image.png
+2024-11-24 15:19:08,400 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:21:11,446 [INFO] Getting image description for path images/Astor Manual/page-13/full_page_image.png
+2024-11-24 15:21:15,417 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:21:21,989 [INFO] Getting image description for path images/Astor Manual/page-14/full_page_image.png
+2024-11-24 15:21:27,760 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:21:40,816 [INFO] Getting image description for path images/Astor Manual/page-16/full_page_image.png
+2024-11-24 15:21:46,803 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:21:49,520 [INFO] Getting image description for path images/Astor Manual/page-17/full_page_image.png
+2024-11-24 15:21:53,910 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:22:02,440 [INFO] Getting image description for path images/Astor Manual/page-18/full_page_image.png
+2024-11-24 15:22:06,648 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:22:23,135 [INFO] Getting image description for path images/Astor Manual/page-19/full_page_image.png
+2024-11-24 15:22:30,116 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:23:19,803 [INFO] Getting image description for path images/Astor Manual/page-25/full_page_image.png
+2024-11-24 15:23:33,786 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:24:50,990 [INFO] Getting image description for path images/Astor Manual/page-31/full_page_image.png
+2024-11-24 15:24:56,682 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:26:08,673 [INFO] Getting image description for path images/Astor Manual/page-37/full_page_image.png
+2024-11-24 15:26:14,005 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:26:23,751 [INFO] Getting image description for path images/Astor Manual/page-38/full_page_image.png
+2024-11-24 15:26:29,210 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:26:43,805 [INFO] Getting image description for path images/Astor Manual/page-39/full_page_image.png
+2024-11-24 15:26:49,341 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:27:47,346 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-1/full_page_image.png
+2024-11-24 15:27:58,767 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:28:12,590 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-2/full_page_image.png
+2024-11-24 15:28:18,811 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:28:25,748 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-3/full_page_image.png
+2024-11-24 15:28:32,456 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:28:40,360 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-4/full_page_image.png
+2024-11-24 15:28:44,754 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:30:22,381 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-14/full_page_image.png
+2024-11-24 15:30:29,977 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:30:44,146 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-15/full_page_image.png
+2024-11-24 15:30:51,651 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:31:05,179 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-17/full_page_image.png
+2024-11-24 15:31:12,121 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:31:26,811 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-19/full_page_image.png
+2024-11-24 15:31:33,699 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:31:58,792 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-22/full_page_image.png
+2024-11-24 15:32:06,395 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:32:28,554 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-24/full_page_image.png
+2024-11-24 15:32:38,745 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:32:45,132 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-25/full_page_image.png
+2024-11-24 15:32:53,363 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:33:07,394 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-26/full_page_image.png
+2024-11-24 15:33:17,631 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:33:24,487 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-27/full_page_image.png
+2024-11-24 15:33:31,655 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:33:45,353 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-28/full_page_image.png
+2024-11-24 15:33:51,469 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:48:44,804 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 15:48:57,480 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 15:48:57,482 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 15:48:57,483 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 15:48:57,483 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 15:48:57,484 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 15:49:56,160 [INFO] Getting image description for path images/Astor Manual/page-1/full_page_image.png
+2024-11-24 15:50:01,447 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:52:34,930 [INFO] Getting image description for path images/Astor Manual/page-13/full_page_image.png
+2024-11-24 15:52:40,721 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:52:48,416 [INFO] Getting image description for path images/Astor Manual/page-14/full_page_image.png
+2024-11-24 15:52:54,402 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:53:07,147 [INFO] Getting image description for path images/Astor Manual/page-16/full_page_image.png
+2024-11-24 15:53:12,393 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:53:14,849 [INFO] Getting image description for path images/Astor Manual/page-17/full_page_image.png
+2024-11-24 15:53:19,126 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:53:33,233 [INFO] Getting image description for path images/Astor Manual/page-18/full_page_image.png
+2024-11-24 15:53:38,148 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:53:52,028 [INFO] Getting image description for path images/Astor Manual/page-19/full_page_image.png
+2024-11-24 15:53:58,883 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:54:39,434 [INFO] Getting image description for path images/Astor Manual/page-25/full_page_image.png
+2024-11-24 15:54:43,819 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:55:28,827 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-1/full_page_image.png
+2024-11-24 15:55:37,443 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:55:51,253 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-2/full_page_image.png
+2024-11-24 15:55:56,057 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:56:03,082 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-3/full_page_image.png
+2024-11-24 15:56:08,322 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:56:16,012 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-4/full_page_image.png
+2024-11-24 15:56:21,679 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:58:00,618 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-14/full_page_image.png
+2024-11-24 15:58:05,900 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:58:11,395 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-15/full_page_image.png
+2024-11-24 15:58:18,970 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:58:34,049 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-17/full_page_image.png
+2024-11-24 15:58:41,057 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:59:01,071 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-19/full_page_image.png
+2024-11-24 15:59:07,963 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 15:59:38,679 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-22/full_page_image.png
+2024-11-24 15:59:43,780 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:00:06,173 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-24/full_page_image.png
+2024-11-24 16:00:12,777 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:00:27,087 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-25/full_page_image.png
+2024-11-24 16:00:32,229 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:10:01,058 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 16:10:13,931 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 16:10:13,932 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 16:10:13,933 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 16:10:13,933 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 16:10:13,934 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 16:11:14,021 [INFO] Getting image description for path images/Astor Manual/page-1/full_page_image.png
+2024-11-24 16:11:20,194 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:13:54,382 [INFO] Getting image description for path images/Astor Manual/page-13/full_page_image.png
+2024-11-24 16:14:00,449 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:14:08,291 [INFO] Getting image description for path images/Astor Manual/page-14/full_page_image.png
+2024-11-24 16:14:14,151 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:14:26,881 [INFO] Getting image description for path images/Astor Manual/page-16/full_page_image.png
+2024-11-24 16:14:32,455 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:14:34,998 [INFO] Getting image description for path images/Astor Manual/page-17/full_page_image.png
+2024-11-24 16:14:40,130 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:14:53,803 [INFO] Getting image description for path images/Astor Manual/page-18/full_page_image.png
+2024-11-24 16:14:59,148 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:15:14,257 [INFO] Getting image description for path images/Astor Manual/page-19/full_page_image.png
+2024-11-24 16:15:20,566 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:16:40,845 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 16:16:53,857 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 16:16:53,858 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 16:16:53,858 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 16:16:53,859 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 16:16:53,859 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 16:17:52,571 [INFO] Getting image description for path images/Astor Manual/page-1/full_page_image.png
+2024-11-24 16:17:59,150 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:20:38,569 [INFO] Getting image description for path images/Astor Manual/page-13/full_page_image.png
+2024-11-24 16:20:45,769 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:20:52,436 [INFO] Getting image description for path images/Astor Manual/page-14/full_page_image.png
+2024-11-24 16:20:57,789 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:21:10,158 [INFO] Getting image description for path images/Astor Manual/page-16/full_page_image.png
+2024-11-24 16:21:15,925 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:21:18,117 [INFO] Getting image description for path images/Astor Manual/page-17/full_page_image.png
+2024-11-24 16:21:22,349 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:21:35,304 [INFO] Getting image description for path images/Astor Manual/page-18/full_page_image.png
+2024-11-24 16:21:41,105 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:21:57,205 [INFO] Getting image description for path images/Astor Manual/page-19/full_page_image.png
+2024-11-24 16:22:03,216 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:32:01,333 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 16:32:12,874 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 16:32:25,856 [INFO] The prompt is Analyze the given image from a car manual and provide a detailed description in a continuous text format. The description should include:
+1. The type of content in the image (e.g., diagram, instruction, warning sign, specification chart).
+2. A detailed description of the main components, labels, or features visible in the image (e.g., engine parts, dashboard controls, tire specifications).
+3. Any numerical data or specifications present in the image (e.g., torque values, pressure limits, dimensions, part numbers).
+4. Any instructional steps, safety guidelines, or warnings included in the image.
+5. The context or purpose of the image (e.g., troubleshooting, installation, maintenance).
+6. Key insights or critical information that would be useful for retrieval or understanding.
+
+The output should be in a single paragraph in max 200 words, written in clear and concise language, optimized for embedding in a retrieval system. Also, the focus should be on the image and its relative content, not other text elements.
+2024-11-24 16:32:25,858 [INFO] OCR version of the PDF exists locally at: source_data/Astor Manual_OCR.pdf
+2024-11-24 16:32:25,859 [INFO] Original PDF already exists locally at: source_data/Astor Manual.pdf
+2024-11-24 16:32:25,859 [INFO] OCR version of the PDF exists locally at: source_data/APP-TIAGO-FINAL-OMSB_OCR.pdf
+2024-11-24 16:32:25,860 [INFO] Original PDF already exists locally at: source_data/APP-TIAGO-FINAL-OMSB.pdf
+2024-11-24 16:33:12,045 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 0
+2024-11-24 16:33:25,963 [INFO] Getting image description for path images/Astor Manual/page-1/full_page_image.png
+2024-11-24 16:33:31,599 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:33:31,621 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 1
+2024-11-24 16:33:45,845 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 2
+2024-11-24 16:33:53,131 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 3
+2024-11-24 16:34:06,693 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 4
+2024-11-24 16:34:21,578 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 5
+2024-11-24 16:34:37,191 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 6
+2024-11-24 16:34:52,654 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 7
+2024-11-24 16:35:08,248 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 8
+2024-11-24 16:35:23,875 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 9
+2024-11-24 16:35:37,601 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 10
+2024-11-24 16:35:49,529 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 11
+2024-11-24 16:35:54,874 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 12
+2024-11-24 16:36:09,475 [INFO] Getting image description for path images/Astor Manual/page-13/full_page_image.png
+2024-11-24 16:36:14,148 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:36:14,170 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 13
+2024-11-24 16:36:21,405 [INFO] Getting image description for path images/Astor Manual/page-14/full_page_image.png
+2024-11-24 16:36:27,395 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:36:27,400 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 14
+2024-11-24 16:36:33,824 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 15
+2024-11-24 16:36:41,950 [INFO] Getting image description for path images/Astor Manual/page-16/full_page_image.png
+2024-11-24 16:36:49,467 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:36:49,479 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 16
+2024-11-24 16:36:52,804 [INFO] Getting image description for path images/Astor Manual/page-17/full_page_image.png
+2024-11-24 16:36:59,031 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:36:59,037 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 17
+2024-11-24 16:37:14,787 [INFO] Getting image description for path images/Astor Manual/page-18/full_page_image.png
+2024-11-24 16:37:19,692 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:37:19,699 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 18
+2024-11-24 16:37:35,124 [INFO] Getting image description for path images/Astor Manual/page-19/full_page_image.png
+2024-11-24 16:37:42,538 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:37:42,548 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 19
+2024-11-24 16:37:58,024 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 20
+2024-11-24 16:38:13,626 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 21
+2024-11-24 16:38:16,731 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 22
+2024-11-24 16:38:19,446 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 23
+2024-11-24 16:38:22,506 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 24
+2024-11-24 16:38:27,269 [INFO] Getting image description for path images/Astor Manual/page-25/full_page_image.png
+2024-11-24 16:38:33,310 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:38:33,321 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 25
+2024-11-24 16:38:40,168 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 26
+2024-11-24 16:38:54,839 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 27
+2024-11-24 16:38:58,127 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 28
+2024-11-24 16:39:11,896 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 29
+2024-11-24 16:39:20,257 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 30
+2024-11-24 16:39:34,904 [INFO] Getting image description for path images/Astor Manual/page-31/full_page_image.png
+2024-11-24 16:39:40,771 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:39:40,780 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 31
+2024-11-24 16:39:57,747 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 32
+2024-11-24 16:40:12,187 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 33
+2024-11-24 16:40:24,183 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 34
+2024-11-24 16:40:35,247 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 35
+2024-11-24 16:40:40,005 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 36
+2024-11-24 16:40:47,162 [INFO] Getting image description for path images/Astor Manual/page-37/full_page_image.png
+2024-11-24 16:40:53,730 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:40:53,743 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 37
+2024-11-24 16:41:03,227 [INFO] Getting image description for path images/Astor Manual/page-38/full_page_image.png
+2024-11-24 16:41:09,300 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:41:09,314 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 38
+2024-11-24 16:41:24,031 [INFO] Getting image description for path images/Astor Manual/page-39/full_page_image.png
+2024-11-24 16:41:31,402 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:41:31,410 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 39
+2024-11-24 16:41:42,981 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 40
+2024-11-24 16:41:58,411 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 41
+2024-11-24 16:42:10,027 [INFO] Getting image description for path images/Astor Manual/page-42/full_page_image.png
+2024-11-24 16:42:16,838 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:42:16,851 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 42
+2024-11-24 16:42:22,238 [INFO] Getting image description for path images/Astor Manual/page-43/full_page_image.png
+2024-11-24 16:42:28,765 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:42:28,773 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 43
+2024-11-24 16:42:37,565 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 44
+2024-11-24 16:42:43,583 [INFO] Getting image description for path images/Astor Manual/page-45/full_page_image.png
+2024-11-24 16:42:49,067 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:42:49,080 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 45
+2024-11-24 16:42:53,278 [INFO] Getting image description for path images/Astor Manual/page-46/full_page_image.png
+2024-11-24 16:42:59,136 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:42:59,141 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 46
+2024-11-24 16:43:07,788 [INFO] Getting image description for path images/Astor Manual/page-47/full_page_image.png
+2024-11-24 16:43:11,968 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:43:11,984 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 47
+2024-11-24 16:43:21,081 [INFO] Getting image description for path images/Astor Manual/page-48/full_page_image.png
+2024-11-24 16:43:26,716 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:43:26,723 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 48
+2024-11-24 16:43:34,818 [INFO] Getting image description for path images/Astor Manual/page-49/full_page_image.png
+2024-11-24 16:43:40,165 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:43:40,181 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 49
+2024-11-24 16:43:48,653 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 50
+2024-11-24 16:43:56,395 [INFO] Getting image description for path images/Astor Manual/page-51/full_page_image.png
+2024-11-24 16:44:02,118 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:44:02,137 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 51
+2024-11-24 16:44:13,584 [INFO] Getting image description for path images/Astor Manual/page-52/full_page_image.png
+2024-11-24 16:44:19,505 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:44:19,513 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 52
+2024-11-24 16:44:35,197 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 53
+2024-11-24 16:44:40,884 [INFO] Getting image description for path images/Astor Manual/page-54/full_page_image.png
+2024-11-24 16:44:48,672 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:44:48,679 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 54
+2024-11-24 16:44:53,967 [INFO] Getting image description for path images/Astor Manual/page-55/full_page_image.png
+2024-11-24 16:44:59,668 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:44:59,684 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 55
+2024-11-24 16:45:05,890 [INFO] Getting image description for path images/Astor Manual/page-56/full_page_image.png
+2024-11-24 16:45:11,453 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:45:11,461 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 56
+2024-11-24 16:45:15,036 [INFO] Getting image description for path images/Astor Manual/page-57/full_page_image.png
+2024-11-24 16:45:21,437 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:45:21,451 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 57
+2024-11-24 16:45:36,579 [INFO] Getting image description for path images/Astor Manual/page-58/full_page_image.png
+2024-11-24 16:45:42,823 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:45:42,834 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 58
+2024-11-24 16:45:47,210 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 59
+2024-11-24 16:45:49,105 [INFO] Getting image description for path images/Astor Manual/page-60/full_page_image.png
+2024-11-24 16:45:55,280 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:45:55,284 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 60
+2024-11-24 16:46:00,867 [INFO] Getting image description for path images/Astor Manual/page-61/full_page_image.png
+2024-11-24 16:46:06,103 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:46:06,150 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 61
+2024-11-24 16:46:20,560 [INFO] Getting image description for path images/Astor Manual/page-62/full_page_image.png
+2024-11-24 16:46:27,497 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:46:27,505 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 62
+2024-11-24 16:46:33,742 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 63
+2024-11-24 16:46:47,257 [INFO] Getting image description for path images/Astor Manual/page-64/full_page_image.png
+2024-11-24 16:46:53,459 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:46:53,469 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 64
+2024-11-24 16:47:05,872 [INFO] Getting image description for path images/Astor Manual/page-65/full_page_image.png
+2024-11-24 16:47:11,092 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:47:11,104 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 65
+2024-11-24 16:47:18,665 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 66
+2024-11-24 16:47:22,677 [INFO] Getting image description for path images/Astor Manual/page-67/full_page_image.png
+2024-11-24 16:47:26,551 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:47:26,559 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 67
+2024-11-24 16:47:37,520 [INFO] Getting image description for path images/Astor Manual/page-68/full_page_image.png
+2024-11-24 16:47:44,435 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:47:44,444 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 68
+2024-11-24 16:47:55,243 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 69
+2024-11-24 16:48:05,861 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 70
+2024-11-24 16:48:08,301 [INFO] Getting image description for path images/Astor Manual/page-71/full_page_image.png
+2024-11-24 16:48:14,858 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:48:14,872 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 71
+2024-11-24 16:48:23,503 [INFO] Getting image description for path images/Astor Manual/page-72/full_page_image.png
+2024-11-24 16:48:29,646 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:48:29,657 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 72
+2024-11-24 16:48:44,128 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 73
+2024-11-24 16:48:58,716 [INFO] Getting image description for path images/Astor Manual/page-74/full_page_image.png
+2024-11-24 16:49:03,743 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:49:03,758 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 74
+2024-11-24 16:49:11,019 [INFO] Getting image description for path images/Astor Manual/page-75/full_page_image.png
+2024-11-24 16:49:16,513 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:49:16,521 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 75
+2024-11-24 16:49:23,523 [INFO] Getting image description for path images/Astor Manual/page-76/full_page_image.png
+2024-11-24 16:49:28,588 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:49:28,599 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 76
+2024-11-24 16:49:38,724 [INFO] Getting image description for path images/Astor Manual/page-77/full_page_image.png
+2024-11-24 16:49:44,362 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:49:44,371 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 77
+2024-11-24 16:49:53,407 [INFO] Getting image description for path images/Astor Manual/page-78/full_page_image.png
+2024-11-24 16:49:58,089 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:49:58,100 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 78
+2024-11-24 16:50:12,726 [INFO] Getting image description for path images/Astor Manual/page-79/full_page_image.png
+2024-11-24 16:50:17,874 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:50:17,918 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 79
+2024-11-24 16:50:34,229 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 80
+2024-11-24 16:50:48,198 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 81
+2024-11-24 16:50:50,514 [INFO] Getting image description for path images/Astor Manual/page-82/full_page_image.png
+2024-11-24 16:50:55,930 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:50:55,946 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 82
+2024-11-24 16:51:09,847 [INFO] Getting image description for path images/Astor Manual/page-83/full_page_image.png
+2024-11-24 16:51:15,110 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:51:15,120 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 83
+2024-11-24 16:51:18,434 [INFO] Getting image description for path images/Astor Manual/page-84/full_page_image.png
+2024-11-24 16:51:22,993 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:51:22,999 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 84
+2024-11-24 16:51:28,237 [INFO] Getting image description for path images/Astor Manual/page-85/full_page_image.png
+2024-11-24 16:51:32,631 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:51:32,636 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 85
+2024-11-24 16:51:39,895 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 86
+2024-11-24 16:51:42,554 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 87
+2024-11-24 16:51:53,454 [INFO] Getting image description for path images/Astor Manual/page-88/full_page_image.png
+2024-11-24 16:52:00,989 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:52:00,994 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 88
+2024-11-24 16:52:05,873 [INFO] Getting image description for path images/Astor Manual/page-89/full_page_image.png
+2024-11-24 16:52:11,582 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:52:11,599 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 89
+2024-11-24 16:52:25,598 [INFO] Getting image description for path images/Astor Manual/page-90/full_page_image.png
+2024-11-24 16:52:31,154 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:52:31,166 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 90
+2024-11-24 16:52:42,912 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 91
+2024-11-24 16:52:48,841 [INFO] Getting image description for path images/Astor Manual/page-92/full_page_image.png
+2024-11-24 16:52:54,501 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:52:54,509 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 92
+2024-11-24 16:53:04,011 [INFO] Getting image description for path images/Astor Manual/page-93/full_page_image.png
+2024-11-24 16:53:12,515 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:53:12,531 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 93
+2024-11-24 16:53:20,487 [INFO] Getting image description for path images/Astor Manual/page-94/full_page_image.png
+2024-11-24 16:53:27,108 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:53:27,114 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 94
+2024-11-24 16:53:36,168 [INFO] Getting image description for path images/Astor Manual/page-95/full_page_image.png
+2024-11-24 16:53:43,865 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:53:43,875 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 95
+2024-11-24 16:53:58,198 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 96
+2024-11-24 16:54:05,020 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 97
+2024-11-24 16:54:11,302 [INFO] Getting image description for path images/Astor Manual/page-98/full_page_image.png
+2024-11-24 16:54:17,428 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:54:17,437 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 98
+2024-11-24 16:54:26,240 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 99
+2024-11-24 16:54:36,014 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 100
+2024-11-24 16:54:50,033 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 101
+2024-11-24 16:54:56,158 [INFO] Getting image description for path images/Astor Manual/page-102/full_page_image.png
+2024-11-24 16:55:01,651 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:55:01,656 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 102
+2024-11-24 16:55:07,711 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 103
+2024-11-24 16:55:13,213 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 104
+2024-11-24 16:55:24,674 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 105
+2024-11-24 16:55:33,490 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 106
+2024-11-24 16:55:41,645 [INFO] Getting image description for path images/Astor Manual/page-107/full_page_image.png
+2024-11-24 16:55:45,895 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:55:45,905 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 107
+2024-11-24 16:55:52,294 [INFO] Getting image description for path images/Astor Manual/page-108/full_page_image.png
+2024-11-24 16:55:56,459 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:55:56,469 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 108
+2024-11-24 16:56:10,605 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 109
+2024-11-24 16:56:24,455 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 110
+2024-11-24 16:56:30,395 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 111
+2024-11-24 16:56:37,135 [INFO] Getting image description for path images/Astor Manual/page-112/full_page_image.png
+2024-11-24 16:56:43,287 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:56:43,306 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 112
+2024-11-24 16:56:46,289 [INFO] Getting image description for path images/Astor Manual/page-113/full_page_image.png
+2024-11-24 16:56:50,683 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:56:50,693 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 113
+2024-11-24 16:57:05,356 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 114
+2024-11-24 16:57:14,556 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 115
+2024-11-24 16:57:26,538 [INFO] Getting image description for path images/Astor Manual/page-116/full_page_image.png
+2024-11-24 16:57:31,980 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:57:31,986 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 116
+2024-11-24 16:57:46,561 [INFO] Getting image description for path images/Astor Manual/page-117/full_page_image.png
+2024-11-24 16:57:52,999 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:57:53,022 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 117
+2024-11-24 16:58:04,432 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 118
+2024-11-24 16:58:17,063 [INFO] Getting image description for path images/Astor Manual/page-119/full_page_image.png
+2024-11-24 16:58:23,667 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:58:23,684 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 119
+2024-11-24 16:58:32,303 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 120
+2024-11-24 16:58:43,873 [INFO] Getting image description for path images/Astor Manual/page-121/full_page_image.png
+2024-11-24 16:58:50,367 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:58:50,371 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 121
+2024-11-24 16:59:01,551 [INFO] Getting image description for path images/Astor Manual/page-122/full_page_image.png
+2024-11-24 16:59:07,144 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:59:07,158 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 122
+2024-11-24 16:59:12,490 [INFO] Getting image description for path images/Astor Manual/page-123/full_page_image.png
+2024-11-24 16:59:18,072 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:59:18,086 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 123
+2024-11-24 16:59:30,261 [INFO] Getting image description for path images/Astor Manual/page-124/full_page_image.png
+2024-11-24 16:59:36,097 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:59:36,107 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 124
+2024-11-24 16:59:49,784 [INFO] Getting image description for path images/Astor Manual/page-125/full_page_image.png
+2024-11-24 16:59:56,594 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 16:59:56,600 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 125
+2024-11-24 17:00:07,933 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 126
+2024-11-24 17:00:14,858 [INFO] Getting image description for path images/Astor Manual/page-127/full_page_image.png
+2024-11-24 17:00:20,177 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:00:20,188 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 127
+2024-11-24 17:00:31,215 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 128
+2024-11-24 17:00:41,796 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 129
+2024-11-24 17:00:52,143 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 130
+2024-11-24 17:00:58,137 [INFO] Getting image description for path images/Astor Manual/page-131/full_page_image.png
+2024-11-24 17:01:10,130 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:01:10,149 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 131
+2024-11-24 17:01:14,251 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 132
+2024-11-24 17:01:22,208 [INFO] Getting image description for path images/Astor Manual/page-133/full_page_image.png
+2024-11-24 17:01:28,421 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:01:28,425 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 133
+2024-11-24 17:01:38,257 [INFO] Getting image description for path images/Astor Manual/page-134/full_page_image.png
+2024-11-24 17:01:43,788 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:01:43,800 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 134
+2024-11-24 17:01:58,828 [INFO] Getting image description for path images/Astor Manual/page-135/full_page_image.png
+2024-11-24 17:02:05,247 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:02:05,272 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 135
+2024-11-24 17:02:18,987 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 136
+2024-11-24 17:02:28,474 [INFO] Getting image description for path images/Astor Manual/page-137/full_page_image.png
+2024-11-24 17:02:42,748 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:02:42,755 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 137
+2024-11-24 17:02:51,492 [INFO] Getting image description for path images/Astor Manual/page-138/full_page_image.png
+2024-11-24 17:02:57,261 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:02:57,266 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 138
+2024-11-24 17:03:05,322 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 139
+2024-11-24 17:03:10,621 [INFO] Getting image description for path images/Astor Manual/page-140/full_page_image.png
+2024-11-24 17:03:16,950 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:03:16,956 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 140
+2024-11-24 17:03:19,663 [INFO] Getting image description for path images/Astor Manual/page-141/full_page_image.png
+2024-11-24 17:03:24,372 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:03:24,384 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 141
+2024-11-24 17:03:29,729 [INFO] Getting image description for path images/Astor Manual/page-142/full_page_image.png
+2024-11-24 17:03:36,819 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:03:36,829 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 142
+2024-11-24 17:03:46,070 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 143
+2024-11-24 17:03:53,057 [INFO] Getting image description for path images/Astor Manual/page-144/full_page_image.png
+2024-11-24 17:03:59,372 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:03:59,381 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 144
+2024-11-24 17:04:10,618 [INFO] Getting image description for path images/Astor Manual/page-145/full_page_image.png
+2024-11-24 17:04:15,811 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:04:15,826 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 145
+2024-11-24 17:04:27,679 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 146
+2024-11-24 17:04:38,273 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 147
+2024-11-24 17:04:49,892 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 148
+2024-11-24 17:05:03,806 [INFO] Getting image description for path images/Astor Manual/page-149/full_page_image.png
+2024-11-24 17:05:08,358 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:05:08,375 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 149
+2024-11-24 17:05:18,306 [INFO] Getting image description for path images/Astor Manual/page-150/full_page_image.png
+2024-11-24 17:05:24,748 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:05:24,759 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 150
+2024-11-24 17:05:35,115 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 151
+2024-11-24 17:05:45,777 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 152
+2024-11-24 17:05:54,433 [INFO] Getting image description for path images/Astor Manual/page-153/full_page_image.png
+2024-11-24 17:06:00,773 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:06:00,784 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 153
+2024-11-24 17:06:12,641 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 154
+2024-11-24 17:06:26,448 [INFO] Getting image description for path images/Astor Manual/page-155/full_page_image.png
+2024-11-24 17:06:32,806 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:06:32,819 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 155
+2024-11-24 17:06:47,457 [INFO] Getting image description for path images/Astor Manual/page-156/full_page_image.png
+2024-11-24 17:06:57,945 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:06:57,953 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 156
+2024-11-24 17:07:01,301 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 157
+2024-11-24 17:07:11,956 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 158
+2024-11-24 17:07:24,542 [INFO] Getting image description for path images/Astor Manual/page-159/full_page_image.png
+2024-11-24 17:07:30,498 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:07:30,502 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 159
+2024-11-24 17:07:40,782 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 160
+2024-11-24 17:07:50,923 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 161
+2024-11-24 17:08:02,983 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 162
+2024-11-24 17:08:09,359 [INFO] Getting image description for path images/Astor Manual/page-163/full_page_image.png
+2024-11-24 17:08:15,136 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:08:15,148 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 163
+2024-11-24 17:08:24,726 [INFO] Getting image description for path images/Astor Manual/page-164/full_page_image.png
+2024-11-24 17:08:30,368 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:08:30,375 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 164
+2024-11-24 17:08:39,907 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 165
+2024-11-24 17:08:47,680 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 166
+2024-11-24 17:08:56,341 [INFO] Getting image description for path images/Astor Manual/page-167/full_page_image.png
+2024-11-24 17:09:02,928 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:09:02,938 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 167
+2024-11-24 17:09:16,297 [INFO] Getting image description for path images/Astor Manual/page-168/full_page_image.png
+2024-11-24 17:09:22,297 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:09:22,307 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 168
+2024-11-24 17:09:34,669 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 169
+2024-11-24 17:09:40,543 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 170
+2024-11-24 17:09:54,339 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 171
+2024-11-24 17:10:03,732 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 172
+2024-11-24 17:10:18,282 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 173
+2024-11-24 17:10:29,914 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 174
+2024-11-24 17:10:44,072 [INFO] Getting image description for path images/Astor Manual/page-175/full_page_image.png
+2024-11-24 17:10:51,177 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:10:51,184 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 175
+2024-11-24 17:11:05,464 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 176
+2024-11-24 17:11:10,749 [INFO] Getting image description for path images/Astor Manual/page-177/full_page_image.png
+2024-11-24 17:11:16,693 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:11:16,708 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 177
+2024-11-24 17:11:27,661 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 178
+2024-11-24 17:11:36,233 [INFO] Getting image description for path images/Astor Manual/page-179/full_page_image.png
+2024-11-24 17:11:41,926 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:11:41,938 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 179
+2024-11-24 17:11:48,184 [INFO] Getting image description for path images/Astor Manual/page-180/full_page_image.png
+2024-11-24 17:11:53,121 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:11:53,126 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 180
+2024-11-24 17:12:03,112 [INFO] Getting image description for path images/Astor Manual/page-181/full_page_image.png
+2024-11-24 17:12:09,671 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:12:09,683 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 181
+2024-11-24 17:12:21,793 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 182
+2024-11-24 17:12:31,967 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 183
+2024-11-24 17:12:46,123 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 184
+2024-11-24 17:12:50,303 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 185
+2024-11-24 17:12:53,550 [INFO] Getting image description for path images/Astor Manual/page-186/full_page_image.png
+2024-11-24 17:12:58,848 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:12:58,861 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 186
+2024-11-24 17:13:06,789 [INFO] Getting image description for path images/Astor Manual/page-187/full_page_image.png
+2024-11-24 17:13:12,176 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:13:12,189 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 187
+2024-11-24 17:13:18,065 [INFO] Getting image description for path images/Astor Manual/page-188/full_page_image.png
+2024-11-24 17:13:23,052 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:13:23,062 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 188
+2024-11-24 17:13:33,341 [INFO] Getting image description for path images/Astor Manual/page-189/full_page_image.png
+2024-11-24 17:13:38,873 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:13:38,883 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 189
+2024-11-24 17:13:52,164 [INFO] Getting image description for path images/Astor Manual/page-190/full_page_image.png
+2024-11-24 17:13:56,859 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:13:56,875 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 190
+2024-11-24 17:14:11,124 [INFO] Getting image description for path images/Astor Manual/page-191/full_page_image.png
+2024-11-24 17:14:15,961 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:14:15,977 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 191
+2024-11-24 17:14:29,130 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 192
+2024-11-24 17:14:40,376 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 193
+2024-11-24 17:14:53,892 [INFO] Getting image description for path images/Astor Manual/page-194/full_page_image.png
+2024-11-24 17:14:58,420 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:14:58,428 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 194
+2024-11-24 17:15:01,319 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 195
+2024-11-24 17:15:15,087 [INFO] Getting image description for path images/Astor Manual/page-196/full_page_image.png
+2024-11-24 17:15:20,837 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:15:20,849 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 196
+2024-11-24 17:15:35,171 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 197
+2024-11-24 17:15:37,970 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 198
+2024-11-24 17:15:42,762 [INFO] Getting image description for path images/Astor Manual/page-199/full_page_image.png
+2024-11-24 17:15:48,230 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:15:48,243 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 199
+2024-11-24 17:16:00,786 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 200
+2024-11-24 17:16:06,293 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 201
+2024-11-24 17:16:14,772 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 202
+2024-11-24 17:16:25,236 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 203
+2024-11-24 17:16:39,333 [INFO] Getting image description for path images/Astor Manual/page-204/full_page_image.png
+2024-11-24 17:16:45,738 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:16:45,762 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 204
+2024-11-24 17:16:56,223 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 205
+2024-11-24 17:17:00,185 [INFO] Getting image description for path images/Astor Manual/page-206/full_page_image.png
+2024-11-24 17:17:03,675 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:17:03,693 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 206
+2024-11-24 17:17:07,698 [INFO] Getting image description for path images/Astor Manual/page-207/full_page_image.png
+2024-11-24 17:17:11,695 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:17:11,708 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 207
+2024-11-24 17:17:19,245 [INFO] Getting image description for path images/Astor Manual/page-208/full_page_image.png
+2024-11-24 17:17:24,530 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:17:24,549 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 208
+2024-11-24 17:17:38,647 [INFO] Getting image description for path images/Astor Manual/page-209/full_page_image.png
+2024-11-24 17:17:44,844 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:17:44,854 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 209
+2024-11-24 17:17:51,817 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 210
+2024-11-24 17:17:57,669 [INFO] Getting image description for path images/Astor Manual/page-211/full_page_image.png
+2024-11-24 17:18:02,975 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:18:02,988 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 211
+2024-11-24 17:18:11,593 [INFO] Getting image description for path images/Astor Manual/page-212/full_page_image.png
+2024-11-24 17:18:16,871 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:18:16,885 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 212
+2024-11-24 17:18:24,381 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 213
+2024-11-24 17:18:38,006 [INFO] Getting image description for path images/Astor Manual/page-214/full_page_image.png
+2024-11-24 17:18:45,733 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:18:45,744 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 214
+2024-11-24 17:18:57,783 [INFO] Getting image description for path images/Astor Manual/page-215/full_page_image.png
+2024-11-24 17:19:02,642 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:19:02,656 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 215
+2024-11-24 17:19:12,609 [INFO] Getting image description for path images/Astor Manual/page-216/full_page_image.png
+2024-11-24 17:19:19,070 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:19:19,084 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 216
+2024-11-24 17:19:29,996 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 217
+2024-11-24 17:19:40,978 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 218
+2024-11-24 17:19:51,998 [INFO] Getting image description for path images/Astor Manual/page-219/full_page_image.png
+2024-11-24 17:19:57,648 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:19:57,656 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 219
+2024-11-24 17:20:05,553 [INFO] Getting image description for path images/Astor Manual/page-220/full_page_image.png
+2024-11-24 17:20:10,906 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:20:10,917 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 220
+2024-11-24 17:20:20,837 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 221
+2024-11-24 17:20:31,204 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 222
+2024-11-24 17:20:39,629 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 223
+2024-11-24 17:20:53,776 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 224
+2024-11-24 17:20:57,859 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 225
+2024-11-24 17:20:59,904 [INFO] Getting image description for path images/Astor Manual/page-226/full_page_image.png
+2024-11-24 17:21:05,516 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:21:05,523 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 226
+2024-11-24 17:21:20,135 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 227
+2024-11-24 17:21:33,599 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 228
+2024-11-24 17:21:41,678 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 229
+2024-11-24 17:21:55,210 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 230
+2024-11-24 17:22:08,747 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 231
+2024-11-24 17:22:22,001 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 232
+2024-11-24 17:22:36,354 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 233
+2024-11-24 17:22:41,591 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 234
+2024-11-24 17:22:48,415 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 235
+2024-11-24 17:22:53,736 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 236
+2024-11-24 17:23:06,645 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 237
+2024-11-24 17:23:21,359 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 238
+2024-11-24 17:23:36,707 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 239
+2024-11-24 17:23:52,527 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 240
+2024-11-24 17:24:05,612 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 241
+2024-11-24 17:24:20,077 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 242
+2024-11-24 17:24:34,581 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 243
+2024-11-24 17:24:39,355 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 244
+2024-11-24 17:24:53,543 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 245
+2024-11-24 17:25:08,288 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 246
+2024-11-24 17:25:19,547 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 247
+2024-11-24 17:25:32,327 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 248
+2024-11-24 17:25:36,794 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 249
+2024-11-24 17:25:50,091 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 250
+2024-11-24 17:26:04,874 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 251
+2024-11-24 17:26:17,885 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 252
+2024-11-24 17:26:20,961 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 253
+2024-11-24 17:26:27,352 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 254
+2024-11-24 17:26:40,844 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 255
+2024-11-24 17:26:47,981 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 256
+2024-11-24 17:26:51,796 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 257
+2024-11-24 17:26:58,956 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 258
+2024-11-24 17:27:12,069 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 259
+2024-11-24 17:27:26,229 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 260
+2024-11-24 17:27:41,065 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 261
+2024-11-24 17:27:43,643 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 262
+2024-11-24 17:27:57,168 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 263
+2024-11-24 17:28:11,458 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 264
+2024-11-24 17:28:17,500 [INFO] Ruuning for PDF : source_data/Astor Manual.pdf and page number 265
+2024-11-24 17:28:51,879 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 0
+2024-11-24 17:29:07,018 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-1/full_page_image.png
+2024-11-24 17:29:16,657 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:29:16,675 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 1
+2024-11-24 17:29:30,479 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-2/full_page_image.png
+2024-11-24 17:29:35,615 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:29:35,618 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 2
+2024-11-24 17:29:42,659 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-3/full_page_image.png
+2024-11-24 17:29:49,256 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:29:49,258 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 3
+2024-11-24 17:29:57,034 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-4/full_page_image.png
+2024-11-24 17:30:01,234 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:30:01,246 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 4
+2024-11-24 17:30:12,023 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 5
+2024-11-24 17:30:14,839 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 6
+2024-11-24 17:30:28,509 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 7
+2024-11-24 17:30:42,900 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 8
+2024-11-24 17:30:56,514 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 9
+2024-11-24 17:31:08,055 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 10
+2024-11-24 17:31:17,696 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 11
+2024-11-24 17:31:31,705 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 12
+2024-11-24 17:31:39,201 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 13
+2024-11-24 17:31:44,597 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-14/full_page_image.png
+2024-11-24 17:31:51,892 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:31:51,904 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 14
+2024-11-24 17:31:57,601 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-15/full_page_image.png
+2024-11-24 17:32:03,152 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:32:03,171 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 15
+2024-11-24 17:32:10,537 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 16
+2024-11-24 17:32:20,266 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-17/full_page_image.png
+2024-11-24 17:32:26,248 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:32:26,262 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 17
+2024-11-24 17:32:32,001 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 18
+2024-11-24 17:32:45,433 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-19/full_page_image.png
+2024-11-24 17:32:50,833 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:32:50,852 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 19
+2024-11-24 17:33:01,056 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 20
+2024-11-24 17:33:09,610 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 21
+2024-11-24 17:33:21,553 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-22/full_page_image.png
+2024-11-24 17:33:27,756 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:33:27,766 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 22
+2024-11-24 17:33:36,132 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 23
+2024-11-24 17:33:49,449 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-24/full_page_image.png
+2024-11-24 17:33:55,302 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:33:55,316 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 24
+2024-11-24 17:34:09,976 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-25/full_page_image.png
+2024-11-24 17:34:15,173 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:34:15,179 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 25
+2024-11-24 17:34:28,984 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-26/full_page_image.png
+2024-11-24 17:34:33,771 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:34:33,786 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 26
+2024-11-24 17:34:39,925 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-27/full_page_image.png
+2024-11-24 17:34:45,418 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:34:45,428 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 27
+2024-11-24 17:34:52,537 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-28/full_page_image.png
+2024-11-24 17:34:58,563 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:34:58,577 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 28
+2024-11-24 17:35:13,667 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 29
+2024-11-24 17:35:21,654 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-30/full_page_image.png
+2024-11-24 17:35:28,350 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:35:28,357 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 30
+2024-11-24 17:35:42,154 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-31/full_page_image.png
+2024-11-24 17:35:47,471 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:35:47,477 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 31
+2024-11-24 17:36:01,305 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-32/full_page_image.png
+2024-11-24 17:36:06,467 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:36:06,483 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 32
+2024-11-24 17:36:15,737 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-33/full_page_image.png
+2024-11-24 17:36:19,967 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:36:19,976 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 33
+2024-11-24 17:36:34,352 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-34/full_page_image.png
+2024-11-24 17:36:38,201 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:36:38,209 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 34
+2024-11-24 17:36:41,083 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-35/full_page_image.png
+2024-11-24 17:36:46,377 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:36:46,388 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 35
+2024-11-24 17:36:49,027 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-36/full_page_image.png
+2024-11-24 17:36:54,803 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:36:54,811 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 36
+2024-11-24 17:37:09,647 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-37/full_page_image.png
+2024-11-24 17:37:13,509 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:37:13,519 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 37
+2024-11-24 17:37:27,111 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 38
+2024-11-24 17:37:30,927 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-39/full_page_image.png
+2024-11-24 17:37:40,922 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:37:40,936 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 39
+2024-11-24 17:37:54,871 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-40/full_page_image.png
+2024-11-24 17:38:02,517 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:38:02,526 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 40
+2024-11-24 17:38:17,726 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-41/full_page_image.png
+2024-11-24 17:38:23,605 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:38:23,614 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 41
+2024-11-24 17:38:33,365 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-42/full_page_image.png
+2024-11-24 17:38:39,050 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:38:39,057 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 42
+2024-11-24 17:38:55,089 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-43/full_page_image.png
+2024-11-24 17:39:03,072 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:39:03,103 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 43
+2024-11-24 17:39:17,274 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-44/full_page_image.png
+2024-11-24 17:39:21,956 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:39:21,967 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 44
+2024-11-24 17:39:24,961 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-45/full_page_image.png
+2024-11-24 17:39:31,822 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:39:31,832 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 45
+2024-11-24 17:39:44,493 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-46/full_page_image.png
+2024-11-24 17:39:49,277 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:39:49,286 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 46
+2024-11-24 17:39:58,395 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 47
+2024-11-24 17:40:04,808 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-48/full_page_image.png
+2024-11-24 17:40:15,552 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:40:15,563 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 48
+2024-11-24 17:40:29,238 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-49/full_page_image.png
+2024-11-24 17:40:38,567 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:40:38,574 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 49
+2024-11-24 17:40:47,315 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-50/full_page_image.png
+2024-11-24 17:40:53,709 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:40:53,721 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 50
+2024-11-24 17:41:07,626 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-51/full_page_image.png
+2024-11-24 17:41:14,039 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:41:14,057 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 51
+2024-11-24 17:41:19,462 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-52/full_page_image.png
+2024-11-24 17:41:28,132 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:41:28,136 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 52
+2024-11-24 17:41:33,677 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-53/full_page_image.png
+2024-11-24 17:41:39,644 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:41:39,652 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 53
+2024-11-24 17:41:43,613 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-54/full_page_image.png
+2024-11-24 17:41:49,713 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:41:49,723 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 54
+2024-11-24 17:42:04,329 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 55
+2024-11-24 17:42:07,210 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-56/full_page_image.png
+2024-11-24 17:42:14,784 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:42:14,797 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 56
+2024-11-24 17:42:21,092 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-57/full_page_image.png
+2024-11-24 17:42:26,259 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:42:26,274 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 57
+2024-11-24 17:42:32,240 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-58/full_page_image.png
+2024-11-24 17:42:45,642 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:42:45,648 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 58
+2024-11-24 17:42:50,177 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-59/full_page_image.png
+2024-11-24 17:42:56,243 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:42:56,251 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 59
+2024-11-24 17:42:59,070 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-60/full_page_image.png
+2024-11-24 17:43:05,643 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:43:05,651 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 60
+2024-11-24 17:43:18,898 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 61
+2024-11-24 17:43:22,116 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-62/full_page_image.png
+2024-11-24 17:43:28,203 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:43:28,211 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 62
+2024-11-24 17:43:42,831 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-63/full_page_image.png
+2024-11-24 17:43:50,616 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:43:50,625 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 63
+2024-11-24 17:43:55,961 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-64/full_page_image.png
+2024-11-24 17:44:04,183 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:44:04,237 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 64
+2024-11-24 17:44:18,438 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-65/full_page_image.png
+2024-11-24 17:45:20,986 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 520 "
+2024-11-24 17:45:21,128 [INFO] Retrying request to /chat/completions in 0.390742 seconds
+2024-11-24 17:45:25,979 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:45:25,984 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 65
+2024-11-24 17:45:41,954 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-66/full_page_image.png
+2024-11-24 17:45:46,469 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:45:46,480 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 66
+2024-11-24 17:45:55,397 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 67
+2024-11-24 17:46:04,769 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 68
+2024-11-24 17:46:12,434 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 69
+2024-11-24 17:46:27,407 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 70
+2024-11-24 17:46:38,046 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 71
+2024-11-24 17:46:52,064 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-72/full_page_image.png
+2024-11-24 17:46:58,804 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:46:58,807 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 72
+2024-11-24 17:47:02,536 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-73/full_page_image.png
+2024-11-24 17:47:07,918 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:47:07,931 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 73
+2024-11-24 17:47:14,510 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-74/full_page_image.png
+2024-11-24 17:47:20,616 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:47:20,629 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 74
+2024-11-24 17:47:34,920 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-75/full_page_image.png
+2024-11-24 17:47:40,004 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:47:40,013 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 75
+2024-11-24 17:47:51,111 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 76
+2024-11-24 17:48:05,592 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-77/full_page_image.png
+2024-11-24 17:48:10,339 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:48:10,354 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 77
+2024-11-24 17:48:20,219 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 78
+2024-11-24 17:48:25,172 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 79
+2024-11-24 17:48:28,902 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-80/full_page_image.png
+2024-11-24 17:48:44,051 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:48:44,062 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 80
+2024-11-24 17:48:50,869 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-81/full_page_image.png
+2024-11-24 17:48:56,768 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:48:56,782 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 81
+2024-11-24 17:49:04,314 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 82
+2024-11-24 17:49:18,022 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 83
+2024-11-24 17:49:31,830 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-84/full_page_image.png
+2024-11-24 17:49:36,411 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:49:36,424 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 84
+2024-11-24 17:49:42,652 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-85/full_page_image.png
+2024-11-24 17:49:47,168 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:49:47,189 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 85
+2024-11-24 17:50:02,290 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-86/full_page_image.png
+2024-11-24 17:50:07,565 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:50:07,576 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 86
+2024-11-24 17:50:22,395 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-87/full_page_image.png
+2024-11-24 17:50:26,902 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:50:26,907 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 87
+2024-11-24 17:50:34,995 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-88/full_page_image.png
+2024-11-24 17:50:40,364 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:50:40,371 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 88
+2024-11-24 17:50:52,600 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-89/full_page_image.png
+2024-11-24 17:50:58,775 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:50:58,785 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 89
+2024-11-24 17:51:09,355 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 90
+2024-11-24 17:51:19,896 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-91/full_page_image.png
+2024-11-24 17:51:24,725 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:51:24,734 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 91
+2024-11-24 17:51:30,818 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-92/full_page_image.png
+2024-11-24 17:51:36,661 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:51:36,675 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 92
+2024-11-24 17:51:44,344 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-93/full_page_image.png
+2024-11-24 17:51:49,503 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:51:49,517 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 93
+2024-11-24 17:52:02,815 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-94/full_page_image.png
+2024-11-24 17:52:11,670 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:52:11,678 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 94
+2024-11-24 17:52:25,211 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 95
+2024-11-24 17:52:38,962 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-96/full_page_image.png
+2024-11-24 17:52:44,802 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:52:44,813 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 96
+2024-11-24 17:52:47,268 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 97
+2024-11-24 17:52:58,024 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 98
+2024-11-24 17:53:03,018 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-99/full_page_image.png
+2024-11-24 17:53:09,271 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:53:09,287 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 99
+2024-11-24 17:53:13,568 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-100/full_page_image.png
+2024-11-24 17:53:18,348 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:53:18,363 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 100
+2024-11-24 17:53:22,117 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-101/full_page_image.png
+2024-11-24 17:53:26,084 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:53:26,094 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 101
+2024-11-24 17:53:35,870 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-102/full_page_image.png
+2024-11-24 17:53:42,050 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:53:42,057 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 102
+2024-11-24 17:53:52,815 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 103
+2024-11-24 17:54:06,860 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 104
+2024-11-24 17:54:12,592 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 105
+2024-11-24 17:54:21,281 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 106
+2024-11-24 17:54:24,089 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-107/full_page_image.png
+2024-11-24 17:54:30,204 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:54:30,212 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 107
+2024-11-24 17:54:34,007 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-108/full_page_image.png
+2024-11-24 17:54:38,508 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:54:38,518 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 108
+2024-11-24 17:54:43,159 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-109/full_page_image.png
+2024-11-24 17:54:48,180 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:54:48,184 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 109
+2024-11-24 17:55:02,776 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-110/full_page_image.png
+2024-11-24 17:55:08,019 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:55:08,036 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 110
+2024-11-24 17:55:18,476 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 111
+2024-11-24 17:55:24,106 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-112/full_page_image.png
+2024-11-24 17:55:28,935 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:55:28,942 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 112
+2024-11-24 17:55:42,615 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-113/full_page_image.png
+2024-11-24 17:55:46,819 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:55:46,826 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 113
+2024-11-24 17:55:50,105 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-114/full_page_image.png
+2024-11-24 17:55:55,178 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:55:55,194 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 114
+2024-11-24 17:55:59,807 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-115/full_page_image.png
+2024-11-24 17:56:03,389 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:56:03,419 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 115
+2024-11-24 17:56:16,958 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-116/full_page_image.png
+2024-11-24 17:56:22,594 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:56:22,599 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 116
+2024-11-24 17:56:37,004 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-117/full_page_image.png
+2024-11-24 17:56:40,784 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:56:40,789 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 117
+2024-11-24 17:56:49,989 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 118
+2024-11-24 17:57:04,797 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 119
+2024-11-24 17:57:17,891 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 120
+2024-11-24 17:57:31,239 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 121
+2024-11-24 17:57:44,166 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 122
+2024-11-24 17:57:46,403 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 123
+2024-11-24 17:58:00,230 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 124
+2024-11-24 17:58:08,613 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 125
+2024-11-24 17:58:23,624 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 126
+2024-11-24 17:58:29,048 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 127
+2024-11-24 17:58:42,329 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 128
+2024-11-24 17:58:50,231 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 129
+2024-11-24 17:59:04,572 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 130
+2024-11-24 17:59:18,192 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 131
+2024-11-24 17:59:20,503 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-132/full_page_image.png
+2024-11-24 17:59:24,440 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:59:24,466 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 132
+2024-11-24 17:59:26,875 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-133/full_page_image.png
+2024-11-24 17:59:32,292 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 17:59:32,314 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 133
+2024-11-24 17:59:46,966 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 134
+2024-11-24 17:59:59,273 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-135/full_page_image.png
+2024-11-24 18:00:03,108 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 18:00:03,113 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 135
+2024-11-24 18:00:12,882 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 136
+2024-11-24 18:00:22,887 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-137/full_page_image.png
+2024-11-24 18:00:27,814 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 18:00:27,820 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 137
+2024-11-24 18:00:38,966 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 138
+2024-11-24 18:00:47,549 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-139/full_page_image.png
+2024-11-24 18:00:52,212 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 18:00:52,228 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 139
+2024-11-24 18:00:59,962 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 140
+2024-11-24 18:01:12,903 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 141
+2024-11-24 18:01:21,258 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-142/full_page_image.png
+2024-11-24 18:01:25,840 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 18:01:25,852 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 142
+2024-11-24 18:01:35,352 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 143
+2024-11-24 18:01:43,573 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-144/full_page_image.png
+2024-11-24 18:01:49,424 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 18:01:49,432 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 144
+2024-11-24 18:01:58,309 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 145
+2024-11-24 18:02:05,364 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 146
+2024-11-24 18:02:18,323 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 147
+2024-11-24 18:02:33,092 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 148
+2024-11-24 18:02:44,628 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 149
+2024-11-24 18:02:59,205 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 150
+2024-11-24 18:03:06,312 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 151
+2024-11-24 18:03:22,492 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-152/full_page_image.png
+2024-11-24 18:03:32,881 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 18:03:32,897 [INFO] Ruuning for PDF : source_data/APP-TIAGO-FINAL-OMSB.pdf and page number 152
+2024-11-24 18:03:37,739 [INFO] Getting image description for path images/APP-TIAGO-FINAL-OMSB/page-153/full_page_image.png
+2024-11-24 18:03:42,181 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-24 20:09:41,432 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:09:52,660 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:09:52,879 [INFO] Use pytorch device_name: mps
+2024-11-24 20:09:52,880 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:19:32,293 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:19:32,570 [INFO] Use pytorch device_name: mps
+2024-11-24 20:19:32,570 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:24:05,613 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:24:06,138 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:27:57,027 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:27:57,257 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:29:11,200 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:29:11,379 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:29:54,475 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:29:54,591 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:30:32,806 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:30:33,029 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:31:00,423 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:31:00,549 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:33:24,665 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:33:24,914 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:38:14,408 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:38:14,614 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:44:19,287 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:44:19,477 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 20:50:22,622 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 20:50:22,812 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 21:06:35,690 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 21:06:35,899 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 22:32:56,211 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 22:32:56,409 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 22:33:16,121 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 22:33:16,218 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 22:40:00,816 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 22:40:01,016 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-24 22:44:35,664 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-24 22:44:35,877 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en

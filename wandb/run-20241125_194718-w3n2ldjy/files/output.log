@@ -1,0 +1,92 @@
+2024-11-25 19:47:20,278 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:47:20,304 [INFO] Use pytorch device_name: mps
+2024-11-25 19:47:20,304 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:47:33,038 [INFO] Use pytorch device: mps
+2024-11-25 19:47:37.220 Examining the path of torch.classes raised: Tried to instantiate class '__path__._path', but it does not exist! Ensure that it is registered via torch::class_
+2024-11-25 19:47:51,062 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:47:51,115 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:47:51,124 [INFO] Use pytorch device_name: mps
+2024-11-25 19:47:51,125 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:48:03,401 [INFO] Use pytorch device: mps
+2024-11-25 19:48:07,784 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:48:10,895 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:03<00:00,  3.79s/it]
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:06<00:00,  6.52s/it]
+2024-11-25 19:48:30,625 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:48:44,144 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:48:57,557 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:48:57.568 Uncaught app exception
+Traceback (most recent call last):
+  File "/Users/deepakn/Desktop/PDF-RAG/generation.py", line 58, in base_gpt4_model
+    self.table.add_data(conversation_history, response,'Passed', elapsed_time)
+AttributeError: 'Results_Generation' object has no attribute 'table'
+
+During handling of the above exception, another exception occurred:
+
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/pdf_rag_2/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/exec_code.py", line 88, in exec_func_with_error_handling
+    result = func()
+  File "/opt/anaconda3/envs/pdf_rag_2/lib/python3.9/site-packages/streamlit/runtime/scriptrunner/script_runner.py", line 579, in code_to_exec
+    exec(code, module.__dict__)
+  File "/Users/deepakn/Desktop/PDF-RAG/app_2.py", line 72, in <module>
+    final_result = generation.base_gpt4_model(message_text)
+  File "/Users/deepakn/Desktop/PDF-RAG/generation.py", line 63, in base_gpt4_model
+    self.table.add_data(conversation_history, response,'Failed', elapsed_time)
+AttributeError: 'Results_Generation' object has no attribute 'table'
+2024-11-25 19:48:57.902 Examining the path of torch.classes raised: Tried to instantiate class '__path__._path', but it does not exist! Ensure that it is registered via torch::class_
+2024-11-25 19:49:52,514 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:49:52,525 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:49:52,529 [INFO] Use pytorch device_name: mps
+2024-11-25 19:49:52,529 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:50:06,066 [INFO] Use pytorch device: mps
+2024-11-25 19:50:09.950 Examining the path of torch.classes raised: Tried to instantiate class '__path__._path', but it does not exist! Ensure that it is registered via torch::class_
+2024-11-25 19:50:16,419 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:50:16,426 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:50:16,427 [INFO] Use pytorch device_name: mps
+2024-11-25 19:50:16,428 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:50:37,792 [INFO] Use pytorch device: mps
+2024-11-25 19:50:41,668 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:50:43,381 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:02<00:00,  2.50s/it]
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:02<00:00,  2.63s/it]
+2024-11-25 19:51:00,221 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:51:27,170 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:51:27,181 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:51:27,185 [INFO] Use pytorch device_name: mps
+2024-11-25 19:51:27,185 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:51:49,043 [INFO] Use pytorch device: mps
+2024-11-25 19:51:53,380 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:51:56,101 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.30s/it]
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:02<00:00,  2.53s/it]
+2024-11-25 19:52:09,696 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:52:23,948 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:52:23,960 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:52:23,963 [INFO] Use pytorch device_name: mps
+2024-11-25 19:52:23,963 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:52:43,355 [INFO] Use pytorch device: mps
+2024-11-25 19:52:47,613 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:52:49,469 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.48s/it]
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:02<00:00,  2.75s/it]
+2024-11-25 19:53:15,427 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:53:24,038 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:53:24,048 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:53:24,051 [INFO] Use pytorch device_name: mps
+2024-11-25 19:53:24,051 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:53:42,431 [INFO] Use pytorch device: mps
+2024-11-25 19:53:47,764 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:53:50,800 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.31s/it]
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:03<00:00,  3.33s/it]
+2024-11-25 19:54:06,387 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:54:30,365 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:54:30,373 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:54:30,376 [INFO] Use pytorch device_name: mps
+2024-11-25 19:54:30,376 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:54:48,133 [INFO] Use pytorch device: mps
+2024-11-25 19:54:51,739 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:54:54,198 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:01<00:00,  1.41s/it]
+Batches: 100%|██████████████████████████████████████████████████████████████████████████████████████| 1/1 [00:03<00:00,  3.11s/it]
+2024-11-25 19:55:06,341 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

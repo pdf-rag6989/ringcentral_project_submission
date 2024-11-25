@@ -1,0 +1,589 @@
+2024-11-25 12:42:17,909 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 12:42:17,945 [INFO] Use pytorch device_name: mps
+2024-11-25 12:42:17,945 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 12:42:17,949 [WARNING] No sentence-transformers model found with name jinaai/jina-embeddings-v2-small-en. Creating a new one with mean pooling.
+2024-11-25 12:42:17,951 [INFO] Error initializing models or connecting to MongoDB: Could not find a suitable TLS CA certificate bundle, invalid path: /path/to/huggingface.co.pem
+2024-11-25 12:42:58,686 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 12:42:58,699 [INFO] Use pytorch device_name: mps
+2024-11-25 12:42:58,705 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 12:42:58,725 [WARNING] No sentence-transformers model found with name jinaai/jina-embeddings-v2-small-en. Creating a new one with mean pooling.
+2024-11-25 12:42:58,735 [INFO] Error initializing models or connecting to MongoDB: Could not find a suitable TLS CA certificate bundle, invalid path: /path/to/huggingface.co.pem
+2024-11-25 12:43:19,088 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 12:43:19,112 [INFO] Use pytorch device_name: mps
+2024-11-25 12:43:19,113 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 12:43:19,116 [WARNING] No sentence-transformers model found with name jinaai/jina-embeddings-v2-small-en. Creating a new one with mean pooling.
+2024-11-25 12:43:19,117 [INFO] Error initializing models or connecting to MongoDB: Could not find a suitable TLS CA certificate bundle, invalid path: ./certificates/to/huggingface.co.pem
+2024-11-25 12:43:39,280 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 12:43:39,287 [INFO] Use pytorch device_name: mps
+2024-11-25 12:43:39,288 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 12:43:39,290 [WARNING] No sentence-transformers model found with name jinaai/jina-embeddings-v2-small-en. Creating a new one with mean pooling.
+2024-11-25 12:43:39,291 [INFO] Error initializing models or connecting to MongoDB: Could not find a suitable TLS CA certificate bundle, invalid path: ./certificates/to/huggingface.co.pem
+2024-11-25 12:44:10,684 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 12:44:10,710 [INFO] Use pytorch device_name: mps
+2024-11-25 12:44:10,711 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 12:44:24,211 [INFO] Use pytorch device: mps
+2024-11-25 12:44:27,969 [INFO] Error initializing models or connecting to MongoDB: 'DataRetriver' object has no attribute 'connect_to_mongo'
+2024-11-25 12:46:03,433 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 12:46:03,444 [INFO] Use pytorch device_name: mps
+2024-11-25 12:46:03,444 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 12:46:15,624 [INFO] Use pytorch device: mps
+2024-11-25 12:46:19,379 [INFO] Error initializing models or connecting to MongoDB: 'DataRetriver' object has no attribute 'connect_to_mongo'
+2024-11-25 12:47:50,961 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 12:47:50,986 [INFO] Use pytorch device_name: mps
+2024-11-25 12:47:50,986 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 12:48:01,888 [INFO] Use pytorch device: mps
+2024-11-25 13:36:33,017 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 13:36:33,060 [INFO] Use pytorch device_name: mps
+2024-11-25 13:36:33,061 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 13:36:46,355 [INFO] Use pytorch device: mps
+2024-11-25 13:38:17,176 [ERROR] Error in text retrieval: 'Combined Text'
+2024-11-25 13:41:50,721 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 13:41:50,754 [INFO] Use pytorch device_name: mps
+2024-11-25 13:41:50,755 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 13:42:03,045 [INFO] Use pytorch device: mps
+2024-11-25 13:53:03,883 [ERROR] Error in image retrieval: [Errno 2] No such file or directory: '/Users/deepakn/Desktop/PDF-RAG/Desktop/PDF-RAG/images/Astor Manual/page-123/page_123_sub_image_1.png'
+2024-11-25 13:53:22,627 [ERROR] Error in image retrieval: Found array with 0 feature(s) (shape=(419, 0)) while a minimum of 1 is required by check_pairwise_arrays.
+2024-11-25 13:54:34,828 [ERROR] Error in image retrieval: Found array with 0 feature(s) (shape=(419, 0)) while a minimum of 1 is required by check_pairwise_arrays.
+2024-11-25 13:55:49,052 [ERROR] Error in image retrieval: Found array with 0 feature(s) (shape=(419, 0)) while a minimum of 1 is required by check_pairwise_arrays.
+2024-11-25 14:03:44,892 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 14:03:44,937 [INFO] Use pytorch device_name: mps
+2024-11-25 14:03:44,938 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 14:03:57,528 [INFO] Use pytorch device: mps
+2024-11-25 14:18:21,299 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 14:18:21,338 [INFO] Use pytorch device_name: mps
+2024-11-25 14:18:21,339 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 14:18:36,032 [INFO] Use pytorch device: mps
+2024-11-25 16:50:00,955 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 16:51:27,144 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 16:51:27,156 [INFO] The prompt is Extract the specified fields and return them strictly in the following JSON format. Ensure all constraints are followed exactly.
+
+Fields to Extract:
+car_model_name: Match the car model from this list: {}. If no match is found, set the value to null.
+image_url: Extract the URL if present. If no URL is found, set the value to null.
+text_or_image_search:
+Analyze the input query to determine if the search is based on an image or text.
+If the query indicates an image search (e.g., mentions "image" or includes a visual description), set the value to "image".
+Additionally, check if a valid image_url exists. If present, set the value to "image".
+If neither condition applies, set the value to "text".
+
+Input:
+{}
+
+Output:
+The output must strictly follow this JSON format:
+{
+    "car_model_name": "Tesla Model S",
+    "image_url": "https://example.com/image.jpg",
+    "text_or_image_search": "image"
+}
+
+Constraints:
+Output JSON Structure: The output must include all three keys: car_model_name, image_url, and text_or_image_search, regardless of whether their values are null or not.
+Field Values:
+car_model_name: Must match exactly from the provided list or be null if no match is found.
+image_url: Must be a valid URL or null.
+text_or_image_search: Must be "image" if a valid image_url exists, otherwise "text".
+No Additional Fields: Do not include any fields other than car_model_name, image_url, and text_or_image_search.
+Strict Format Compliance: Ensure the JSON output matches the provided example format exactly in terms of structure and data types.
+2024-11-25 16:51:44,674 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 16:51:44,688 [INFO] The prompt is Extract the specified fields and return them strictly in the following JSON format. Ensure all constraints are followed exactly.
+
+Fields to Extract:
+car_model_name: Match the car model from this list: {}. If no match is found, set the value to null.
+image_url: Extract the URL if present. If no URL is found, set the value to null.
+text_or_image_search:
+Analyze the input query to determine if the search is based on an image or text.
+If the query indicates an image search (e.g., mentions "image" or includes a visual description), set the value to "image".
+Additionally, check if a valid image_url exists. If present, set the value to "image".
+If neither condition applies, set the value to "text".
+
+Input:
+{}
+
+Output:
+The output must strictly follow this JSON format:
+{
+    "car_model_name": "Tesla Model S",
+    "image_url": "https://example.com/image.jpg",
+    "text_or_image_search": "image"
+}
+
+Constraints:
+Output JSON Structure: The output must include all three keys: car_model_name, image_url, and text_or_image_search, regardless of whether their values are null or not.
+Field Values:
+car_model_name: Must match exactly from the provided list or be null if no match is found.
+image_url: Must be a valid URL or null.
+text_or_image_search: Must be "image" if a valid image_url exists, otherwise "text".
+No Additional Fields: Do not include any fields other than car_model_name, image_url, and text_or_image_search.
+Strict Format Compliance: Ensure the JSON output matches the provided example format exactly in terms of structure and data types.
+2024-11-25 16:51:49,102 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 16:51:49,119 [INFO] The prompt is Extract the specified fields and return them strictly in the following JSON format. Ensure all constraints are followed exactly.
+
+Fields to Extract:
+car_model_name: Match the car model from this list: {}. If no match is found, set the value to null.
+image_url: Extract the URL if present. If no URL is found, set the value to null.
+text_or_image_search:
+Analyze the input query to determine if the search is based on an image or text.
+If the query indicates an image search (e.g., mentions "image" or includes a visual description), set the value to "image".
+Additionally, check if a valid image_url exists. If present, set the value to "image".
+If neither condition applies, set the value to "text".
+
+Input:
+{}
+
+Output:
+The output must strictly follow this JSON format:
+{
+    "car_model_name": "Tesla Model S",
+    "image_url": "https://example.com/image.jpg",
+    "text_or_image_search": "image"
+}
+
+Constraints:
+Output JSON Structure: The output must include all three keys: car_model_name, image_url, and text_or_image_search, regardless of whether their values are null or not.
+Field Values:
+car_model_name: Must match exactly from the provided list or be null if no match is found.
+image_url: Must be a valid URL or null.
+text_or_image_search: Must be "image" if a valid image_url exists, otherwise "text".
+No Additional Fields: Do not include any fields other than car_model_name, image_url, and text_or_image_search.
+Strict Format Compliance: Ensure the JSON output matches the provided example format exactly in terms of structure and data types.
+2024-11-25 16:52:08,796 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 16:52:08,811 [INFO] The prompt is Extract the specified fields and return them strictly in the following JSON format. Ensure all constraints are followed exactly.
+
+Fields to Extract:
+car_model_name: Match the car model from this list: {}. If no match is found, set the value to null.
+image_url: Extract the URL if present. If no URL is found, set the value to null.
+text_or_image_search:
+Analyze the input query to determine if the search is based on an image or text.
+If the query indicates an image search (e.g., mentions "image" or includes a visual description), set the value to "image".
+Additionally, check if a valid image_url exists. If present, set the value to "image".
+If neither condition applies, set the value to "text".
+
+Input:
+{}
+
+Output:
+The output must strictly follow this JSON format:
+{
+    "car_model_name": "Tesla Model S",
+    "image_url": "https://example.com/image.jpg",
+    "text_or_image_search": "image"
+}
+
+Constraints:
+Output JSON Structure: The output must include all three keys: car_model_name, image_url, and text_or_image_search, regardless of whether their values are null or not.
+Field Values:
+car_model_name: Must match exactly from the provided list or be null if no match is found.
+image_url: Must be a valid URL or null.
+text_or_image_search: Must be "image" if a valid image_url exists, otherwise "text".
+No Additional Fields: Do not include any fields other than car_model_name, image_url, and text_or_image_search.
+Strict Format Compliance: Ensure the JSON output matches the provided example format exactly in terms of structure and data types.
+2024-11-25 16:53:48,828 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 16:53:48,859 [INFO] The prompt is Extract the specified fields and return them strictly in the following JSON format. Ensure all constraints are followed exactly.
+
+Fields to Extract:
+car_model_name: Match the car model from this list: {}. If no match is found, set the value to null.
+image_url: Extract the URL if present. If no URL is found, set the value to null.
+text_or_image_search:
+Analyze the input query to determine if the search is based on an image or text.
+If the query indicates an image search (e.g., mentions "image" or includes a visual description), set the value to "image".
+Additionally, check if a valid image_url exists. If present, set the value to "image".
+If neither condition applies, set the value to "text".
+
+Input:
+{}
+
+Output:
+The output must strictly follow this JSON format:
+{
+    "car_model_name": "Tesla Model S",
+    "image_url": "https://example.com/image.jpg",
+    "text_or_image_search": "image"
+}
+
+Constraints:
+Output JSON Structure: The output must include all three keys: car_model_name, image_url, and text_or_image_search, regardless of whether their values are null or not.
+Field Values:
+car_model_name: Must match exactly from the provided list or be null if no match is found.
+image_url: Must be a valid URL or null.
+text_or_image_search: Must be "image" if a valid image_url exists, otherwise "text".
+No Additional Fields: Do not include any fields other than car_model_name, image_url, and text_or_image_search.
+Strict Format Compliance: Ensure the JSON output matches the provided example format exactly in terms of structure and data types.
+2024-11-25 16:54:54,548 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 16:54:54,565 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 16:56:58,382 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 16:56:58,390 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:00:01,443 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:00:01,465 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:00:29,402 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:00:29,414 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:02:55,764 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:02:55,779 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:02:55,780 [INFO] Extract the specified fields and return them strictly in the following JSON format. Ensure all constraints are followed exactly.
+Fields to Extract:
+car_model_name: Match the car model from this list: Astor Manual.pdf, APP-TIAGO-FINAL-OMSB.pdf. If no match is found, set the value to null.
+image_url: Extract the URL if present. If no URL is found, set the value to null.
+text_or_image_search:
+Analyze the input query to determine if the search is based on an image or text.
+If the query indicates an image search (e.g., mentions "image" or includes a visual description), set the value to "image".
+Additionally, check if a valid image_url exists. If present, set the value to "image".
+If neither condition applies, set the value to "text".
+
+Input:
+i want to know how abs works for mg astor car
+
+Output:
+The output must strictly follow this JSON format:
+{
+"car_model_name": "Tesla Model S",
+"image_url": "https://example.com/image.jpg",
+"text_or_image_search": "image"
+}
+
+Constraints:
+Output JSON Structure: The output must include all three keys: car_model_name, image_url, and text_or_image_search, regardless of whether their values are null or not.
+Field Values:
+car_model_name: Must match exactly from the provided list or be null if no match is found.
+image_url: Must be a valid URL or null.
+text_or_image_search: Must be "image" if a valid image_url exists, otherwise "text".
+No Additional Fields: Do not include any fields other than car_model_name, image_url, and text_or_image_search.
+Strict Format Compliance: Ensure the JSON output matches the provided example format exactly in terms of structure and data types.
+2024-11-25 17:02:57,782 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:03:29,544 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:03:29,566 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:03:29,567 [INFO] Extract the specified fields and return them strictly in the following JSON format. Ensure all constraints are followed exactly.
+Fields to Extract:
+car_model_name: Match the car model from this list: Astor Manual.pdf, APP-TIAGO-FINAL-OMSB.pdf. If no match is found, set the value to null.
+image_url: Extract the URL if present. If no URL is found, set the value to null.
+text_or_image_search:
+Analyze the input query to determine if the search is based on an image or text.
+If the query indicates an image search (e.g., mentions "image" or includes a visual description), set the value to "image".
+Additionally, check if a valid image_url exists. If present, set the value to "image".
+If neither condition applies, set the value to "text".
+
+Input:
+i want to know how abs works for Astor car
+
+Output:
+The output must strictly follow this JSON format:
+{
+"car_model_name": "Tesla Model S",
+"image_url": "https://example.com/image.jpg",
+"text_or_image_search": "image"
+}
+
+Constraints:
+Output JSON Structure: The output must include all three keys: car_model_name, image_url, and text_or_image_search, regardless of whether their values are null or not.
+Field Values:
+car_model_name: Must match exactly from the provided list or be null if no match is found.
+image_url: Must be a valid URL or null.
+text_or_image_search: Must be "image" if a valid image_url exists, otherwise "text".
+No Additional Fields: Do not include any fields other than car_model_name, image_url, and text_or_image_search.
+Strict Format Compliance: Ensure the JSON output matches the provided example format exactly in terms of structure and data types.
+2024-11-25 17:03:31,164 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:05:01,041 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:05:01,056 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:05:02,760 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:06:20,487 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:06:20,504 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:06:22,522 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:06:29,844 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:06:29,857 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:06:31,369 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:06:35,705 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:06:35,724 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:06:37,303 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:06:43,248 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:06:43,259 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:06:45,605 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:06:45,630 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:06:45,683 [INFO] Use pytorch device_name: mps
+2024-11-25 17:06:45,684 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 17:07:00,576 [INFO] Use pytorch device: mps
+2024-11-25 17:07:05,195 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:07:05,204 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:07:06,814 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:07:15,104 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:07:15,112 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:07:16,537 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:07:23,451 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:07:23,469 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:07:24,974 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:07:33,121 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:07:33,135 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:07:34,503 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:07:37,316 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:07:37,330 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:07:39,048 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:07:46,625 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:07:46,634 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:07:48,197 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:10:06,422 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:10:06,436 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:10:07,957 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:11:03,100 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:11:03,114 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:11:05,131 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:11:08,729 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:11:08,747 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:11:11,184 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:11:14,702 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:11:14,718 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:11:17,457 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:11:28,761 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:11:28,777 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:11:30,678 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:11:39,010 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:11:39,031 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:11:43,603 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:21:40,926 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:21:40,960 [INFO] Use pytorch device_name: mps
+2024-11-25 17:21:40,960 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 17:21:53,496 [INFO] Use pytorch device: mps
+2024-11-25 17:49:10,126 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:49:10,140 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:49:15,811 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:49:26,323 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:49:26,337 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:49:27,934 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:50:19,567 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:50:19,581 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:50:21,267 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 17:50:26,050 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 17:50:26,069 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 17:50:28,472 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:05:54,475 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:07:01,138 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:07:01,161 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:07:01,202 [INFO] Use pytorch device_name: mps
+2024-11-25 18:07:01,202 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 18:07:15,411 [INFO] Use pytorch device: mps
+2024-11-25 18:07:19,173 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:07:21,785 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:10:14,329 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:10:14,354 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:10:14,361 [INFO] Use pytorch device_name: mps
+2024-11-25 18:10:14,361 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 18:10:28,051 [INFO] Use pytorch device: mps
+2024-11-25 18:10:31,914 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:10:33,751 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:10:53,293 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:10:53,309 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:10:53,315 [INFO] Use pytorch device_name: mps
+2024-11-25 18:10:53,315 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 18:11:06,017 [INFO] Use pytorch device: mps
+2024-11-25 18:11:10,189 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:11:12,028 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:11:40,015 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:11:40,030 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:11:40,034 [INFO] Use pytorch device_name: mps
+2024-11-25 18:11:40,034 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 18:12:00,398 [INFO] Use pytorch device: mps
+2024-11-25 18:12:08,671 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:12:10,809 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:12:32,102 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:12:35,062 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:12:52,732 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:13:02,692 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:13:09,386 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:13:43,386 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:14:15,862 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:14:17,273 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:14:37,222 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:15:56,014 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:15:57,362 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:16:16,865 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:16:43,475 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:16:44,849 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:16:58,504 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:19:44,685 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:19:46,034 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:19:58,313 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:21:19,330 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:21:20,788 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:21:30,734 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:22:04,176 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:22:05,746 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:22:15,945 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:23:43,140 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:23:43,147 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:23:43,172 [INFO] Use pytorch device_name: mps
+2024-11-25 18:23:43,173 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 18:23:56,921 [INFO] Use pytorch device: mps
+2024-11-25 18:24:29,158 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:24:30,513 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:24:40,177 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:25:02,516 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:25:04,122 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:25:19,502 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:25:50,507 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:25:52,003 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:25:58,289 [ERROR] Error in text retrieval: bad operand type for unary -: 'str'
+2024-11-25 18:25:59,877 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:27:03,025 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:27:04,465 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:27:16,621 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:27:24,415 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:27:26,506 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:27:33,753 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:27:45,919 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:38:23,778 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:38:23,814 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 18:38:23,833 [INFO] Use pytorch device_name: mps
+2024-11-25 18:38:23,833 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 18:38:36,396 [INFO] Use pytorch device: mps
+2024-11-25 18:39:25,268 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:39:27,411 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:42:27,882 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:42:29,656 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:42:43,782 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:42:55,139 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:42:56,415 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:43:10,631 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:45:17,223 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:45:19,025 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:45:35,679 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:54:30,826 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:54:35,205 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:54:45,621 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:55:03,171 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:55:06,882 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:55:21,043 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:57:26,243 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 18:57:28,535 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 18:57:41,111 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:12:33,024 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:12:33,059 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:12:33,092 [INFO] Use pytorch device_name: mps
+2024-11-25 19:12:33,092 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:12:48,535 [INFO] Use pytorch device: mps
+2024-11-25 19:12:57,341 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:13:00,196 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:13:15,324 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:14:16,577 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:14:20,756 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:14:20,776 [INFO] Use pytorch device_name: mps
+2024-11-25 19:14:20,776 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:14:32,159 [INFO] Use pytorch device: mps
+2024-11-25 19:14:36,767 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:14:38,517 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:14:46,149 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:15:05,991 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:23:26,194 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:23:29,502 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:23:29,523 [INFO] Use pytorch device_name: mps
+2024-11-25 19:23:29,524 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:23:51,986 [INFO] Use pytorch device: mps
+2024-11-25 19:24:01,382 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:24:03,663 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:24:16,859 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:24:29,627 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:24:42,098 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:26:18,511 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:27:11,412 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:27:36,920 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:29:35,579 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:29:40,675 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:29:40,695 [INFO] Use pytorch device_name: mps
+2024-11-25 19:29:40,696 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:29:54,827 [INFO] Use pytorch device: mps
+2024-11-25 19:29:59,714 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:30:01,420 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:30:14,720 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:38:30,188 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:38:30,188 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:40:03,927 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)'))': /api/4504800232407040/envelope/
+2024-11-25 19:40:04,030 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)'))': /api/4504800232407040/envelope/
+2024-11-25 19:40:04,192 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)'))': /api/4504800232407040/envelope/
+2024-11-25 19:40:04,428 [WARNING] Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)'))': /api/4504800232407040/envelope/
+2024-11-25 19:40:04,560 [WARNING] Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)'))': /api/4504800232407040/envelope/
+2024-11-25 19:40:04,666 [WARNING] Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1129)'))': /api/4504800232407040/envelope/
+2024-11-25 19:47:16,598 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:47:20,278 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:47:20,304 [INFO] Use pytorch device_name: mps
+2024-11-25 19:47:20,304 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:47:33,038 [INFO] Use pytorch device: mps
+2024-11-25 19:47:51,062 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:47:51,115 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:47:51,124 [INFO] Use pytorch device_name: mps
+2024-11-25 19:47:51,125 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:48:03,401 [INFO] Use pytorch device: mps
+2024-11-25 19:48:07,784 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:48:10,895 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:48:30,625 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:48:44,144 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:48:57,557 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:49:52,514 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:49:52,525 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:49:52,529 [INFO] Use pytorch device_name: mps
+2024-11-25 19:49:52,529 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:50:06,066 [INFO] Use pytorch device: mps
+2024-11-25 19:50:16,419 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:50:16,426 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:50:16,427 [INFO] Use pytorch device_name: mps
+2024-11-25 19:50:16,428 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:50:37,792 [INFO] Use pytorch device: mps
+2024-11-25 19:50:41,668 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:50:43,381 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:51:00,221 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:51:27,170 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:51:27,181 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:51:27,185 [INFO] Use pytorch device_name: mps
+2024-11-25 19:51:27,185 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:51:49,043 [INFO] Use pytorch device: mps
+2024-11-25 19:51:53,380 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:51:56,101 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:52:09,696 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:52:23,948 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:52:23,960 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:52:23,963 [INFO] Use pytorch device_name: mps
+2024-11-25 19:52:23,963 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:52:43,355 [INFO] Use pytorch device: mps
+2024-11-25 19:52:47,613 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:52:49,469 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:53:15,427 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:53:24,038 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:53:24,048 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:53:24,051 [INFO] Use pytorch device_name: mps
+2024-11-25 19:53:24,051 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:53:42,431 [INFO] Use pytorch device: mps
+2024-11-25 19:53:47,764 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:53:50,800 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:54:06,387 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:54:30,365 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:54:30,373 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:54:30,376 [INFO] Use pytorch device_name: mps
+2024-11-25 19:54:30,376 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:54:48,133 [INFO] Use pytorch device: mps
+2024-11-25 19:54:51,739 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:54:54,198 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:55:06,341 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 22:07:55,369 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 22:07:59,051 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 22:07:59,073 [INFO] Use pytorch device_name: mps
+2024-11-25 22:07:59,073 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 22:08:13,716 [INFO] Use pytorch device: mps
+2024-11-25 22:08:32,548 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 22:08:32,559 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 22:08:32,562 [INFO] Use pytorch device_name: mps
+2024-11-25 22:08:32,562 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 22:08:45,371 [INFO] Use pytorch device: mps
+2024-11-25 22:08:50,112 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 22:08:52,511 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 22:09:03,724 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 22:11:06,915 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 22:11:06,930 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 22:11:06,935 [INFO] Use pytorch device_name: mps
+2024-11-25 22:11:06,935 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 22:11:25,069 [INFO] Use pytorch device: mps
+2024-11-25 22:11:29,511 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 22:11:31,681 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 22:11:45,509 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 22:16:55,946 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 22:16:55,959 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 22:16:55,963 [INFO] Use pytorch device_name: mps
+2024-11-25 22:16:55,963 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 22:17:15,625 [INFO] Use pytorch device: mps
+2024-11-25 22:17:20,505 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 22:17:22,541 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 22:17:33,584 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"

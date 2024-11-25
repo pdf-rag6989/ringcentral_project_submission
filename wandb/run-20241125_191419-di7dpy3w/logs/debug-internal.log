@@ -1,0 +1,15 @@
+{"time":"2024-11-25T19:14:19.163048+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T19:14:19.163136+05:30","level":"INFO","msg":"created symlink","path":"/Users/deepakn/Desktop/PDF-RAG/wandb/run-20241125_191419-di7dpy3w/logs/debug-core.log"}
+{"time":"2024-11-25T19:14:19.48563+05:30","level":"INFO","msg":"created new stream","id":"di7dpy3w"}
+{"time":"2024-11-25T19:14:19.485704+05:30","level":"INFO","msg":"stream: started","id":"di7dpy3w"}
+{"time":"2024-11-25T19:14:19.485748+05:30","level":"INFO","msg":"handler: started","stream_id":"di7dpy3w"}
+{"time":"2024-11-25T19:14:19.485795+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"di7dpy3w"}
+{"time":"2024-11-25T19:14:19.485756+05:30","level":"INFO","msg":"sender: started","stream_id":"di7dpy3w"}
+{"time":"2024-11-25T19:14:20.555657+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T19:14:36.754764+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T19:14:36.762132+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T19:14:36.762737+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T19:14:36.767233+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T19:15:06.01358+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T19:20:51.964592+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/files/pdf-rag6989-self/PDF%20RAG%20on%20Car%20Manuals/di7dpy3w/file_stream"}
+{"time":"2024-11-25T19:20:51.969231+05:30","level":"ERROR+4","msg":"filestream: fatal error: filestream: failed to upload: 404 Not Found path=files/pdf-rag6989-self/PDF RAG on Car Manuals/di7dpy3w/file_stream: {\"error\":\"project pdf-rag6989-self/PDF RAG on Car Manuals not found while streaming file\"}"}

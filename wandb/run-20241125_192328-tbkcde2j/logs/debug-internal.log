@@ -1,0 +1,13 @@
+{"time":"2024-11-25T19:23:28.354231+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T19:23:28.354335+05:30","level":"INFO","msg":"created symlink","path":"/Users/deepakn/Desktop/PDF-RAG/wandb/run-20241125_192328-tbkcde2j/logs/debug-core.log"}
+{"time":"2024-11-25T19:23:28.535057+05:30","level":"INFO","msg":"created new stream","id":"tbkcde2j"}
+{"time":"2024-11-25T19:23:28.535237+05:30","level":"INFO","msg":"stream: started","id":"tbkcde2j"}
+{"time":"2024-11-25T19:23:28.53529+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"tbkcde2j"}
+{"time":"2024-11-25T19:23:28.535336+05:30","level":"INFO","msg":"handler: started","stream_id":"tbkcde2j"}
+{"time":"2024-11-25T19:23:28.535318+05:30","level":"INFO","msg":"sender: started","stream_id":"tbkcde2j"}
+{"time":"2024-11-25T19:23:29.310637+05:30","level":"INFO","msg":"Starting system monitor"}
+{"time":"2024-11-25T19:23:55.808979+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T19:24:00.054141+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T19:24:00.056296+05:30","level":"INFO","msg":"Pausing system monitor"}
+{"time":"2024-11-25T19:24:01.378823+05:30","level":"INFO","msg":"Resuming system monitor"}
+{"time":"2024-11-25T19:24:42.397046+05:30","level":"INFO","msg":"Pausing system monitor"}

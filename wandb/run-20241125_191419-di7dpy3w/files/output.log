@@ -1,0 +1,17 @@
+2024-11-25 19:14:20,756 [INFO] Loaded config.json from: /Users/deepakn/Desktop/PDF-RAG/config.json
+2024-11-25 19:14:20,776 [INFO] Use pytorch device_name: mps
+2024-11-25 19:14:20,776 [INFO] Load pretrained SentenceTransformer: jinaai/jina-embeddings-v2-small-en
+2024-11-25 19:14:32,159 [INFO] Use pytorch device: mps
+2024-11-25 19:14:36,767 [INFO] ['Astor Manual.pdf', 'APP-TIAGO-FINAL-OMSB.pdf']
+2024-11-25 19:14:38,517 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+2024-11-25 19:14:46,149 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+{'car_model_name': 'APP-TIAGO-FINAL-OMSB.pdf', 'image_url': None, 'text_or_image_search': 'text'}
+2024-11-25 19:15:05,991 [INFO] HTTP Request: POST https://api.openai.com/v1/chat/completions "HTTP/1.1 200 OK"
+The Anti-lock Braking System (ABS) in the Tiago car works by regulating brake pressure to prevent wheel lock-up during braking. This feature allows you to maintain control over the steering while you brake, which is particularly useful in slippery conditions or during sudden stops. When the ABS is active, you might feel the brake pedal pulsating; this is a normal part of the system's operation. It's important to note that while ABS improves vehicle control during braking, it doesn't reduce stopping distances and isn't a substitute for safe driving practices. Always consider the road and weather conditions, and drive within safety margins.
+
+Additionally, the ABS warning lamp on the dashboard will illuminate momentarily when the ignition is turned on. If this lamp stays on continuously, it indicates a malfunction within the ABS system. The normal braking system will still function, but the ABS feature may be disabled. In such cases, it is advised to drive cautiously and visit a TATA MOTORS Authorized Service Centre for inspection and repair.
+
+**Citations:**
+- APP-TIAGO-FINAL-OMSB.pdf (Page 21)
+- APP-TIAGO-FINAL-OMSB.pdf (Page 45)
+[34m[1mwandb[0m: [33mWARNING[0m Fatal error while uploading data. Some run data will not be synced, but it will still be written to disk. Use `wandb sync` at the end of the run to try uploading.

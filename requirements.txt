@@ -1,0 +1,17 @@
+streamlit
+altair==5.5.0
+pandas==2.2.3
+numpy==2.0.2
+torch==2.0.1
+transformers
+sentence-transformers==3.3.1
+streamlit==1.40.1
+pymongo==4.10.1
+Pillow==10.0.1
+requests==2.31.0
+wandb==0.18.7
+scikit-learn==1.5.2
+pydantic==2.10.1
+certifi==2023.7.22
+openai
+huggingface-hub

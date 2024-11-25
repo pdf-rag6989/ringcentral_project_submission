@@ -1,0 +1,19 @@
+{"time":"2024-11-25T19:38:33.160839+05:30","level":"INFO","msg":"using version","core version":"0.18.7"}
+{"time":"2024-11-25T19:38:33.160915+05:30","level":"INFO","msg":"created symlink","path":"/Users/deepakn/Desktop/PDF-RAG/wandb/run-20241125_193833-ahd4y9uu/logs/debug-core.log"}
+{"time":"2024-11-25T19:38:33.483339+05:30","level":"INFO","msg":"created new stream","id":"ahd4y9uu"}
+{"time":"2024-11-25T19:38:33.483488+05:30","level":"INFO","msg":"stream: started","id":"ahd4y9uu"}
+{"time":"2024-11-25T19:38:33.483504+05:30","level":"INFO","msg":"sender: started","stream_id":"ahd4y9uu"}
+{"time":"2024-11-25T19:38:33.483538+05:30","level":"INFO","msg":"writer: Do: started","stream_id":"ahd4y9uu"}
+{"time":"2024-11-25T19:38:33.4835+05:30","level":"INFO","msg":"handler: started","stream_id":"ahd4y9uu"}
+{"time":"2024-11-25T19:41:44.203911+05:30","level":"INFO","msg":"stream: closing","id":"ahd4y9uu"}
+{"time":"2024-11-25T19:41:44.206753+05:30","level":"ERROR","msg":"sender: upsertConfig: RunRecord is nil"}
+{"time":"2024-11-25T19:41:44.207868+05:30","level":"WARN","msg":"No requirements.txt found, not creating job artifact. See https://docs.wandb.ai/guides/launch/create-job"}
+{"time":"2024-11-25T19:41:44.208035+05:30","level":"INFO","msg":"sender: sendDefer: no job artifact to save"}
+{"time":"2024-11-25T19:41:44.287619+05:30","level":"INFO","msg":"api: retrying error","error":"Post \"https://api.wandb.ai/graphql\": read tcp 100.64.0.1:57160->35.186.228.49:443: read: connection reset by peer"}
+{"time":"2024-11-25T19:41:46.963758+05:30","level":"ERROR","msg":"HTTP error","status":404,"method":"POST","url":"https://api.wandb.ai/graphql"}
+{"time":"2024-11-25T19:41:46.964126+05:30","level":"ERROR","msg":"runfiles: CreateRunFiles returned error: returned error 404 Not Found: {\"errors\":[{\"message\":\"project /PDF RAG on Car Manuals not found during createRunFiles\",\"path\":[\"createRunFiles\"]}],\"data\":{\"createRunFiles\":null}}"}
+{"time":"2024-11-25T19:41:46.969385+05:30","level":"INFO","msg":"fileTransfer: Close: file transfer manager closed"}
+{"time":"2024-11-25T19:41:46.969462+05:30","level":"INFO","msg":"handler: closed","stream_id":"ahd4y9uu"}
+{"time":"2024-11-25T19:41:46.969469+05:30","level":"INFO","msg":"writer: Close: closed","stream_id":"ahd4y9uu"}
+{"time":"2024-11-25T19:41:46.969477+05:30","level":"INFO","msg":"sender: closed","stream_id":"ahd4y9uu"}
+{"time":"2024-11-25T19:41:46.969576+05:30","level":"INFO","msg":"stream: closed","id":"ahd4y9uu"}
