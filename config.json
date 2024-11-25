@@ -8,7 +8,7 @@
         }
     ],
     "api_keys": {
-        "openai": "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",
+        "openai": "",
         "other_service": "your_other_service_api_key"
     },
     "output_dir": "output_data",
